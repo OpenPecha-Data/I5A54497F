@@ -1,0 +1,44 @@
+id: I5A54497F
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:31:51.347373'
+last_modified: '2022-06-18T19:31:51.347389'
+parser: null
+source_metadata:
+  title: Kun spangs Chos grags dpals (fl. 14th cent.) Sems grel skor gsum lineage
+    history
+  author: ཀུན་སྤངས་ཆོས་གྲགས་དཔལ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-10-19);
+    head entries and linebreaks encoded, no folio numbers, revision in process, no
+    thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was digitally published by བེ་རི་རིག་པའི་རྡོ་རྗེ།
+    (ed.), Tashi Choeling Buddhist Center (Charlottesville, VA); སེམས་འགྲེལ་བླ་བརྒྱུད།
+
+    (Digital Text version/id: ངེས་དོན་སྒྲོན་མེ། ༣༠, uploaded 25 /09/ 2013). (src)'
+  - Text input:ནང་བསྟན་རིག་མཛོད་ངེས་དོན་དཔེ་ཚོགས་འཕྲུལ་དེབ་ལྟེ་གནས།, Tashi Choeling
+    Buddhist Center (eds)
+  - Editorial process:ནང་བསྟན་རིག་མཛོད་ངེས་དོན་དཔེ་ཚོགས་འཕྲུལ་དེབ་ལྟེ་གནས། (ntrd),
+    Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/5049
+  bases:
+    d7a2:
+      title: Kun spangs Chos grags dpals (fl. 14th cent.) Sems grel skor gsum lineage
+        history
+      order: 1
+      base_file: d7a2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
